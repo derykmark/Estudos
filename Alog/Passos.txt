@@ -1,0 +1,14 @@
+01) Entrar no modo prompt de comando: cmd
+02) Posicionar na unidade: Q:
+03) Listar conteúdo: DIR
+04) Posicionar na pasta ALOG: CD ALOG
+05) Listar conteúdo: DIR
+06) Limpar a tela: CLS
+07) Configurar o ambiente para utilizar o compilador e
+    o linkeditor da linguagem  Configura_VC_2012.bat
+08) Abrir o editor de programas NotePad++
+09) Editar programa fonte
+10) Visualizar o conteúdo do programa fonte: Type exemplo1.c
+11) Compilar o programa fonte: cl -c exemplo1.c
+12) Linkar o programa objeto : link exemplo1.obj
+13) Executar o aplicativo    : exemplo1.exe
